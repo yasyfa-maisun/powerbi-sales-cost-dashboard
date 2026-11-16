@@ -5,13 +5,13 @@
 Repositori ini memuat dashboard Power BI untuk memantau penjualan, biaya, dan profitabilitas per cabang (*branch*), disertai perbandingan realisasi terhadap target (*plan vs actual*). 
 Dashboard disusun ulang berdasarkan pengalaman magang penulis di bidang Data Analyst Department Service Business & Marketing, dengan menggunakan **data simulasi**.
 
-![Tampilan dashboard](images/overview.png)
+![Tampilan dashboard](Dashboard-Sales-Cost.png)
 
 > **Pernyataan data:** Seluruh data dalam repositori ini merupakan data simulasi yang dibangkitkan secara acak. Repositori ini tidak memuat data, nama, maupun angka milik organisasi mana pun.
 
 ## Demo
 
-Rekaman demonstrasi dashboard (durasi sekitar satu menit): [isi link video]
+Rekaman demonstrasi dashboard (durasi sekitar satu menit): [Lihat di sini](Dashboard-Sales-Cost.mp4)
 
 ## Latar Belakang dan Tujuan
 
@@ -84,11 +84,10 @@ powerbi-sales-cost-dashboard/
 ├── README.md
 ├── dashboard.pbix
 ├── data/
-│   └── Index.xlsx
+│   └── Data Sales & Cost_Simulasi.xlsx
 ├── images/
-│   └── overview.png
-└── script/
-    └── generate_data.ipynb
+│   └── Dashboard-Sales-Cost.png
+
 ```
 
 ## Cara Penggunaan
@@ -105,4 +104,4 @@ Power BI Desktop, Power Query, DAX, Python (pandas, NumPy), Google Colab, dan Mi
 
 ## Penulis
 
-Yasyfa Maisun Majidah · [Tautan LinkedIn] · [Email]
+Yasyfa Maisun Majidah · [LinkedIn](linkedin/in/yasyfa-maisun) · [Email](yasyfa.maisun01@gmail.com)
