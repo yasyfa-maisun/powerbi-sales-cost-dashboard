@@ -86,7 +86,7 @@ powerbi-sales-cost-dashboard/
 ├── data/
 │   └── Data Sales & Cost_Simulasi.xlsx
 ├── images/
-│   └── Dashboard-Sales-Cost.png
+    └── Dashboard-Sales-Cost.png
 
 ```
 
