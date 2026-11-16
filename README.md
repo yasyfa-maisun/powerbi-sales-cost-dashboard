@@ -11,7 +11,7 @@ Dashboard disusun ulang berdasarkan pengalaman magang penulis di bidang Data Ana
 
 ## Demo
 
-Rekaman demonstrasi dashboard (durasi sekitar satu menit): [Lihat di sini](Dashboard-Sales-Cost.mp4)
+Rekaman demonstrasi dashboard (durasi sekitar satu menit): [Lihat di sini]([Dashboard-Sales-Cost.mp4](https://drive.google.com/drive/folders/1IW-SiEv8uHXhHDwKmM4_fVeTJua_4BhI?usp=sharing))
 
 ## Latar Belakang dan Tujuan
 
