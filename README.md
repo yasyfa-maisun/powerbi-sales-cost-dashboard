@@ -82,21 +82,20 @@ Data dibangkitkan menggunakan Python (pandas dan NumPy) pada Google Colab dengan
 ```
 powerbi-sales-cost-dashboard/
 ├── README.md
-├── dashboard.pbix
-├── data/
-│   └── Data Sales & Cost_Simulasi.xlsx
-├── images/
-    └── Dashboard-Sales-Cost.png
+├── Sales_Cost.pbix
+├── Data Sales & Cost_Simulasi.xlsx
+├── Dashboard-Sales-Cost.png
+└── Dashboard-Sales-Cost.mp4
 
 ```
 
 ## Cara Penggunaan
 
-1. Unduh `dashboard.pbix` dan `data/Index.xlsx`.
-2. Buka `dashboard.pbix` menggunakan Power BI Desktop (Windows).
-3. Apabila sumber data tidak ditemukan, arahkan ke lokasi `Index.xlsx` melalui *Transform data > Data source settings*.
+1. Unduh `Sales_Cost.pbix` dan `Data Sales & Cost_Simulasi.xlsx`.
+2. Buka `Sales_Cost.pbix` menggunakan Power BI Desktop (Windows).
+3. Apabila sumber data tidak ditemukan, arahkan ke lokasi `Data Sales & Cost_Simulasi.xlsx` melalui *Transform data > Data source settings*.
 
-Pengguna yang tidak memiliki Power BI Desktop dapat melihat tangkapan layar pada folder `images/` atau rekaman demonstrasi pada bagian Demo.
+Pengguna yang tidak memiliki Power BI Desktop dapat melihat tangkapan layar pada berkas Dashboard-Sales-Cost.png atau rekaman demonstrasi pada bagian Demo.
 
 ## Perangkat yang Digunakan
 
@@ -104,4 +103,4 @@ Power BI Desktop, Power Query, DAX, Python (pandas, NumPy), Google Colab, dan Mi
 
 ## Penulis
 
-Yasyfa Maisun Majidah · [LinkedIn](linkedin/in/yasyfa-maisun) · [Email](yasyfa.maisun01@gmail.com)
+Yasyfa Maisun Majidah · [LinkedIn](https://linkedin.com/in/yasyfa-maisun) · [Email](mailto:yasyfa.maisun01@gmail.com)
